@@ -26,5 +26,6 @@ body {
 
 .container::before {
     content: '';
-    position: absolute;width: 40px;
+    position: absolute;
+    width: 40px;
 }
