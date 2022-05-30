@@ -45,6 +45,7 @@ body {
 
 .toogleBtn {
     position: absolute;
+    bottom: -20px;
     min-width: 60px;
     height: 60px;
     background: #0bcf9c;
