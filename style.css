@@ -38,4 +38,6 @@ body {
     transform: rotate(45deg);
 }
 
-.toggleBtn {}
+.toggleBtn {
+    position: absolute;
+}
