@@ -43,7 +43,7 @@ body {
     transform: rotate(45deg);
 }
 
-.toogLeBtn {
+.toogleBtn {
     position: absolute;
     min-width: 60px;
     height: 60px;
