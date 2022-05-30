@@ -34,4 +34,5 @@ body {
     width: 40px;
     height: 40px;
     background: #f00;
+    transform: rotate(45deg);
 }
