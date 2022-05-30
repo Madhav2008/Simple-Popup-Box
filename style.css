@@ -54,7 +54,7 @@ body {
 }
 
 .container.active .content {
-    opacity: 0;
+    opacity: 1;
     transition-delay: 0.5s;
     transform: scale(1);
 }
