@@ -28,7 +28,7 @@ body {
 }
 
 .container.active {
-    width: 400px;
+    width: 400px;height: 400px;
 }
 
 .container::before {
