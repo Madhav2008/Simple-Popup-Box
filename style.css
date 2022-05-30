@@ -42,6 +42,7 @@ body {
     background: #37444b;
     border-radius: 5px;
     opacity: 0;
+    transition: 0.5s;
     transform: rotate(45deg);
 }
 
