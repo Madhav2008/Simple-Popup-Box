@@ -44,7 +44,7 @@ body {
     transform: rotate(45deg);
 }
 
-.container.active::before {}
+.container.active::before {transition-delay: 0.5s;}
 
 .container .content {
     min-width: 400px;
