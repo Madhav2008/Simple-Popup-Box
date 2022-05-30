@@ -38,7 +38,7 @@ body {
     transform: rotate(45deg);
 }
 
-.toggleBtn {
+.toogLeBtn {
     position: absolute;
     min-width: 60px;
     height: 60px;
