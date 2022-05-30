@@ -40,4 +40,5 @@ body {
 
 .toggleBtn {
     position: absolute;
+    min-width: 60px;
 }
