@@ -65,4 +65,5 @@ body {
 
 .container.active .toogleBtn {
     bottom: -90px;
+    transform: rotate(135deg);
 }
