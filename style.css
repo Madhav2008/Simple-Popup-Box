@@ -23,6 +23,7 @@ body {
     border-radius: 25px;
     transition: 0.5s;
     display: flex;
+    justify-content: center;
 }
 
 .container::before {
