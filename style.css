@@ -48,6 +48,7 @@ body {
     min-width: 400px;
     padding: 40px;
     color: #fff;
+    opacity: 0;
 }
 
 .toogleBtn {
