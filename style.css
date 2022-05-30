@@ -41,6 +41,7 @@ body {
     height: 40px;
     background: #37444b;
     border-radius: 5px;
+    opacity: 0;
     transform: rotate(45deg);
 }
 
