@@ -53,7 +53,7 @@ body {
     transform: scale(0);
 }
 
-.container.active .content {}
+.container.active .content {opacity: 0;}
 
 .toogleBtn {
     position: absolute;
