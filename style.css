@@ -36,4 +36,6 @@ body {
     background: #37444b;
     border-radius: 5px;
     transform: rotate(45deg);
-}.toggleBtn{}
+}
+
+.toggleBtn {}
