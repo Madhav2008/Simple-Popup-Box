@@ -47,4 +47,6 @@ body {
     cursor: pointer;
 }
 
-.toogLeBtn::before {content: '+';}
+.toogLeBtn::before {
+    content: '+';
+}
