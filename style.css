@@ -27,7 +27,7 @@ body {
     align-items: center;
 }
 
-.container .active {
+.container.active {
     width: 400px;
     height: 400px;
 }
