@@ -61,4 +61,7 @@ body {
     font-size: 2.5em;
     color: #fff;
 }
-.container.active .toogleBtn{bottom: -90px;}
+
+.container.active .toogleBtn {
+    bottom: -90px;
+}
