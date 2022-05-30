@@ -24,4 +24,6 @@ body {
     transition: 0.5s;
 }
 
-.container::before {}
+.container::before {
+    content: '';
+}
