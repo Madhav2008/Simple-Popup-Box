@@ -53,4 +53,5 @@ body {
 .toogLeBtn::before {
     content: '+';
     font-size: 2.5em;
+    color: #fff;
 }
