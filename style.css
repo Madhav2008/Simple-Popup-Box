@@ -25,7 +25,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}.container.active{width: 400px;}
+}
+
+.container.active {
+    width: 400px;
+}
 
 .container::before {
     content: '';
