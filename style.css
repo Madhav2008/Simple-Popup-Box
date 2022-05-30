@@ -41,9 +41,9 @@ body {
     background: #37444b;
     border-radius: 5px;
     transform: rotate(45deg);
-}.container .content
+}
 
-.toogleBtn {
+.container .content .toogleBtn {
     position: absolute;
     bottom: -20px;
     min-width: 60px;
