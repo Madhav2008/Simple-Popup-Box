@@ -45,6 +45,7 @@ body {
 
 .container .content {
     min-width: 400px;
+    padding: 40px;
 }
 
 .toogleBtn {
