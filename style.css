@@ -22,4 +22,4 @@ body {
     background: #37444b;
     border-radius: 25px;
     transition: 0.5s;
-}.container::before
+}.container::before{}
