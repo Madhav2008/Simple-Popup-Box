@@ -1,6 +1,6 @@
 let toogleBtn = document.querySelector('.toogleBtn');
-        let container = document.querySelector('.container');
+let container = document.querySelector('.container');
 
-        toogleBtn.onClick = function () {
-            container.classList.toogle('active');
-        }
+toogleBtn.onClick = function () {
+    container.classList.toogle('active');
+}
