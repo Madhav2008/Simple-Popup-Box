@@ -30,6 +30,7 @@ body {
 .container.active {
     width: 400px;
     height: 400px;
+    transition-delay: 0.5s;
 }
 
 .container::before {
