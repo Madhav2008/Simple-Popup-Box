@@ -44,4 +44,5 @@ body {
     height: 60px;
     background: #0bcf9c;
     border-radius: 50%;
+    cursor: pointer;
 }
