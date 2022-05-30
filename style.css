@@ -54,7 +54,8 @@ body {
 }
 
 .container.active .content {
-    opacity: 0;transition-delay: 0.5s;
+    opacity: 0;
+    transition-delay: 0.5s;
 }
 
 .toogleBtn {
