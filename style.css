@@ -43,7 +43,7 @@ body {
     transform: rotate(45deg);
 }
 
-.container .content {}
+.container .content {min-width: 400px;}
 
 .toogleBtn {
     position: absolute;
