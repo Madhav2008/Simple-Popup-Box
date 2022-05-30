@@ -42,7 +42,7 @@ body {
     background: #37444b;
     border-radius: 5px;
     transform: rotate(45deg);
-}.container.active::before
+}.container.active::before{}
 
 .container .content {
     min-width: 400px;
