@@ -86,7 +86,7 @@ body {
     color: #fff;
 }
 
-.container.active .toogleBtn {
+.container.active .toggleBtn {
     bottom: -90px;
     transform: rotate(135deg);
     background: #ff5a57;
