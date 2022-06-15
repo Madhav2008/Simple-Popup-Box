@@ -80,7 +80,7 @@ body {
     transition: 0.5s;
 }
 
-.toogleBtn::before {
+.toggleBtn::before {
     content: '+';
     font-size: 2.5em;
     color: #fff;
